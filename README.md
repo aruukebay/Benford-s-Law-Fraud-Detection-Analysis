@@ -29,7 +29,7 @@ javac -d . BenfordsLaw.java BenfordClient.java BenfordServer.java AppliedBenford
 ## Demo
 
 ### Client GUI
-![Client Interface](./misc/images/screenshot1)
+![Client Interface](./misc/images/Screenshot1.png)
 
 ### Analysis Results
-![Benford's Law Chart](./misc/images/screenshot2)
+![Benford's Law Chart](./misc/images/Screenshot2.png)
