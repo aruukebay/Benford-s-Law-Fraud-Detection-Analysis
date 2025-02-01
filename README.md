@@ -26,7 +26,7 @@ javac -d . BenfordsLaw.java BenfordClient.java BenfordServer.java AppliedBenford
 ```
 
 
-### Demo
+## Demo
 
 ### Client GUI
 ![Client Interface](./misc/images/Screenshot1.png)
