@@ -29,7 +29,7 @@ javac -d . BenfordsLaw.java BenfordClient.java BenfordServer.java AppliedBenford
 ### Demo
 
 ### Client GUI
-![Client Interface](https://raw.githubusercontent.com/aruukebay/Benford-s-Law-Fraud-Detection-Analysis/misc/images/Screenshot1.png)
+![Client Interface](./misc/images/Screenshot1.png)
 
 ### Analysis Results
-![Benford's Law Chart]([Benford-s-Law-Fraud-Detection-Analysis/misc/images/Screenshot2.png](https://raw.githubusercontent.com/aruukebay/Benford-s-Law-Fraud-Detection-Analysis/misc/images/Screenshot2.png))
+![Benford's Law Chart](./misc/images/Screenshot2.png))
