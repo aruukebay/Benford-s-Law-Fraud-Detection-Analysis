@@ -1,6 +1,7 @@
 # Benford's Law Fraud Detection Application
 
-A Java-based client-server application that analyzes numeric data in text files using Benford's Law to detect potential fraud. Features a GUI for client interaction and leverages multithreading to handle multiple clients simultaneously.
+A Java-based client-server application that analyzes numeric data in text files using Benford's Law to detect potential fraud. 
+Features a GUI for client interaction and leverages multithreading to handle multiple clients simultaneously.
 
 
 ## Features
@@ -32,4 +33,4 @@ javac -d . BenfordsLaw.java BenfordClient.java BenfordServer.java AppliedBenford
 ![Client Interface](./misc/images/Screenshot1.png)
 
 ### Analysis Results
-![Benford's Law Chart](./misc/images/Screenshot2.png))
+![Benford's Law Chart](./misc/images/Screenshot2.png)
